@@ -1,0 +1,21 @@
+{
+  "name": "enterprisejs_sample",
+  "description": "Pending",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "Charles Martin",
+      "email": "cjay.martin@gmail.com",
+      "web": ""
+    }
+  ],
+  "dependencies": {
+    "jsdc": "git://github.com/enterprisejs/jsdc.git"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/enterprisejs/enterprisejs_sample.git"
+    }
+  ]
+}
